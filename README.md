@@ -1,6 +1,9 @@
-# spatio-temporal-covid-forecasting_2021
-Run datapreprocess_time_series.py to preprocess the NYT covid data.
+# Steps to run spatio-temporal-covid-forecasting_2021 repo:
 
-Run train_d3_armnet.ipynb to generate the dynamic covariates and also to train and test forecasts on the model.
+1. Run datapreprocess_time_series.py to preprocess the NYT covid data.
 
-Covariates created already for 5 months mobility data and stored in data folder. 
+2. Run train_d3_armnet.ipynb to generate the dynamic covariates and also to train the model on the data.
+
+3. Run evaluate.py to get the test results in the forecasting range.
+
+Dynamic Covariates created already for 6 months and stored in data folder. 
