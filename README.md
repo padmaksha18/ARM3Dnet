@@ -1,4 +1,4 @@
-# Steps to run spatio-temporal-covid-forecasting_2021 repo:
+# Steps to run the repo:
 
 1. Run datapreprocess_time_series.py to preprocess the NYT covid data.
 
