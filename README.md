@@ -6,4 +6,4 @@
 
 3. Run evaluate.py to get the test results in the forecasting range.
 
-Dynamic Covariates created already for 6 months and stored in data folder. 
+Dynamic Covariates created for 6 months and stored in data folder. 
