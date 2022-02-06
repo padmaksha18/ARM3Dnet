@@ -9,7 +9,7 @@ Dynamic Diffusion Network (ARM3Dnet), which considers both people’s mobility a
 
 # Steps to run the repo:
 
-1. Download the repo from github.
+1. Download the repo from github keeping the structure intact.
 
 2. Check if all the data files in the correct directories.
 
