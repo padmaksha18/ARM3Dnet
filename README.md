@@ -9,10 +9,11 @@ Dynamic Diffusion Network (ARM3Dnet), which considers both people’s mobility a
 
 # Steps to run the repo:
 
-1. Run datapreprocess_time_series.py to preprocess the NYT covid data.
+1. Download the repo from github.
 
-2. Run train_d3_armnet.ipynb to generate the dynamic covariates and also to train the model on the data.
+2. Check if all the data files in the correct directories.
 
-3. Run evaluate.py to get the test results in the forecasting range.
+3. Run train_d3_armnet.ipynb step by step to do the graph convolution, preprocess, train and evaluate the model.
 
-Dynamic Covariates created for 6 months and stored in data folder. 
+
+You can find the dynamic covariates, mobility data, cases and deaths time series data all stored in data folder. 
