@@ -22,6 +22,7 @@ The mobility data that we have used for inter and within county mobility informa
 https://drive.google.com/drive/folders/1K70T0R9p-SUjXTF9ABFtdDfaPQyhnKgR?usp=sharing
 
 If you find our work helpful, please remember to cite with this:
+
 '''
 **@inproceedings{roy2021deep,
   title={Deep diffusion-based forecasting of COVID-19 by incorporating network-level mobility information},
@@ -30,4 +31,5 @@ If you find our work helpful, please remember to cite with this:
   pages={168--175},
   year={2021}
 }**
+
 '''
