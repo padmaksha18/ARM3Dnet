@@ -21,4 +21,15 @@ The dynamic covariates,cases and deaths time series data all stored in data fold
 The mobility data that we have used for inter and within county mobility information is hosted here:
 https://drive.google.com/drive/folders/1K70T0R9p-SUjXTF9ABFtdDfaPQyhnKgR?usp=sharing
 
+If you find our work helpful, please remember to cite with this:
 
+```
+**@inproceedings{roy2021deep,
+  title={Deep diffusion-based forecasting of COVID-19 by incorporating network-level mobility information},
+  author={Roy, Padmaksha and Sarkar, Shailik and Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Ramakrishnan, Naren and Lu, Chang-Tien},
+  booktitle={Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+  pages={168--175},
+  year={2021}
+}**
+
+```
