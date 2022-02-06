@@ -1,5 +1,6 @@
 
-This repository contains the code for the following paper:
+This repository contains the code for the following paper:\\
+
 Deep diffusion-based forecasting of COVID-19 by incorporating network-level mobility information
 P Roy, S Sarkar, S Biswas, F Chen, Z Chen, N Ramakrishnan, CT Lu
 
