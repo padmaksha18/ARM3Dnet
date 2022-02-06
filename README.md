@@ -16,4 +16,9 @@ Dynamic Diffusion Network (ARM3Dnet), which considers both people’s mobility a
 3. Run train_d3_armnet.ipynb step by step to do the graph convolution, preprocess, train and evaluate the model.
 
 
-The dynamic covariates, mobility data, cases and deaths time series data all stored in data folder for reference. 
+The dynamic covariates,cases and deaths time series data all stored in data folder for reference. 
+
+The mobility data that we have used for inter and within county mobility information is hosted here:
+https://drive.google.com/drive/folders/1K70T0R9p-SUjXTF9ABFtdDfaPQyhnKgR?usp=sharing
+
+
