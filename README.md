@@ -21,7 +21,7 @@ The dynamic covariates,cases and deaths time series data all stored in data fold
 The mobility data that we have used for inter and within county mobility information is hosted here:
 https://drive.google.com/drive/folders/1K70T0R9p-SUjXTF9ABFtdDfaPQyhnKgR?usp=sharing
 
-If you find our work helpful, please remember to cite with this:
+Citation Info:
 
 ```
 **@inproceedings{roy2021deep,
