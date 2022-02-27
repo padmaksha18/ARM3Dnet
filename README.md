@@ -21,6 +21,8 @@ The dynamic covariates,cases and deaths time series data all stored in data fold
 The mobility data that we have used for inter and within county mobility information is hosted here:
 https://drive.google.com/drive/folders/1K70T0R9p-SUjXTF9ABFtdDfaPQyhnKgR?usp=sharing
 
+We are working on the GMM optimization for a better fit to the data. Currently, adding more spatial data results in degradation on performance due to the noise introduced by the adjacency matrix. But the GMM shows better fit when time series data is considered over a relatively long duration. The trade-off needs to be determined here.
+
 Citation Info:
 
 ```
